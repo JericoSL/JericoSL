@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jerico</h1>
 <h3 align="center">A Computer Science students looking for Internship</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Data Science & Machine Learning**
 
 - 📫 How to reach me **liejerico142@gmail.com**
 
